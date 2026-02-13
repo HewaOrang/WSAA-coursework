@@ -1,0 +1,67 @@
+N	51.9018	-8.4582	D564	13 Feb 2026	D564\nCork to Midleton\nExpected Departure 12:45	To Midleton
+N	51.9212	-8.17579	P563	13 Feb 2026	P563\nMidleton to Cork\nExpected Departure 12:45	To Cork
+N	52.2531	-6.33493	A613	13 Feb 2026	A613\nRosslare Europort to Dublin Connolly\nExpected Departure 12:50	Northbound
+N	53.3531	-6.24591	A114	13 Feb 2026	A114\nDublin Connolly to Belfast\nExpected Departure 12:50	Northbound
+N	53.3531	-6.24591	D915	13 Feb 2026	D915\nDublin Connolly to Maynooth\nExpected Departure 12:45	Northbound
+N	53.4509	-6.15649	E229	13 Feb 2026	E229\nMalahide to Bray\nExpected Departure 12:44	Southbound
+N	53.712	-6.33538	P708	13 Feb 2026	P708\nDrogheda to Dublin Connolly\nExpected Departure 12:43	Southbound
+R	0	0	A208	13 Feb 2026	A208\n10:00 - Dublin Heuston to Cork (6 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R	0	0	A210	13 Feb 2026	A210\n11:00 - Dublin Heuston to Cork (-8 mins late)\nArrived LJ896 next stop Charleville	To Cork
+R	0	0	A213	13 Feb 2026	A213\n11:25 - Cork to Dublin Heuston (7 mins late)\nDeparted TS465 next stop Thurles	To Dublin Heuston
+R	0	0	A804	13 Feb 2026	A804\n12:45 - Dublin Heuston to Westport (-7 mins late)\nArrived Inchicore Advance Starter next stop Portarlington	To Westport
+R	0	0	D211	13 Feb 2026	D211\n12:37 - Dublin Heuston to Newbridge (0 mins late)\nDeparted Inchicore Advance Starter next stop Park West and Cherry Orchard	To Newbridge
+R	0	0	D409	13 Feb 2026	D409\n12:30 - Grand Canal Dock to Hazelhatch (0 mins late)\nDeparted North Strand Junction next stop Drumcondra	Southbound
+R	52.1396	-8.65521	A304	13 Feb 2026	A304\n11:25 - Mallow to Tralee (0 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R	52.6404	-8.52719	A472	13 Feb 2026	A472\n11:38 - Limerick Junction to Ennis (7 mins late)\nDeparted Killonan next stop Limerick	To Ennis
+R	52.992	-6.9762	A513	13 Feb 2026	A513\n11:00 - Waterford to Dublin Heuston (3 mins late)\nDeparted Athy next stop Kildare	To Dublin Heuston
+R	53.0371	-7.30086	A212	13 Feb 2026	A212\n12:00 - Dublin Heuston to Cork (-1 mins late)\nArrived Portlaoise next stop Thurles	To Cork
+R	53.1442	-6.06085	A602	13 Feb 2026	A602\n09:35 - Dublin Connolly to Rosslare Europort (7 mins late)\nDeparted Greystones next stop Kilcoole	Southbound
+R	53.1454	-7.06361	P215	13 Feb 2026	P215\n12:30 - Portlaoise to Dublin Heuston (-2 mins late)\nArrived Monasterevin next stop Kildare	To Dublin Heuston
+R	53.1545	-6.96542	A805	13 Feb 2026	A805\n09:45 - Westport to Dublin Heuston (3 mins late)\nDeparted Cherryville Junction next stop Dublin Heuston	To Dublin Heuston
+R	53.2043	-6.10046	E112	13 Feb 2026	E112\n11:24 - Malahide to Greystones (0 mins late)\nDeparted Bray next stop Greystones	Southbound
+R	53.2043	-6.10046	E133	13 Feb 2026	E133\n22:33 - Malahide to Greystones (0 mins late)\nDeparted Bray next stop Greystones	Southbound
+R	53.2043	-6.10046	E821	13 Feb 2026	E821\n12:31 - Greystones to Malahide (-1 mins late)\nArrived Bray next stop Woodbrook	Northbound
+R	53.2469	-6.66386	A211	13 Feb 2026	A211\n10:25 - Cork to Dublin Heuston (4 mins late)\nDeparted Sallins next stop Dublin Heuston	To Dublin Heuston
+R	53.2469	-6.66386	A512	13 Feb 2026	A512\n12:25 - Dublin Heuston to Carlow (1 mins late)\nDeparted Sallins next stop Newbridge	To Carlow
+R	53.2469	-6.66386	P214	13 Feb 2026	P214\n12:25 - Newbridge to Dublin Heuston (3 mins late)\nDeparted Sallins next stop Hazelhatch	To Dublin Heuston
+R	53.2557	-6.11317	E224	13 Feb 2026	E224\n11:35 - Howth to Bray (4 mins late)\nDeparted Killiney next stop Shankill	Southbound
+R	53.2557	-6.11317	E923	13 Feb 2026	E923\n12:35 - Bray to Howth (0 mins late)\nArrived Killiney next stop Dalkey	Northbound
+R	53.2704	-7.49985	A710	13 Feb 2026	A710\n11:30 - Dublin Heuston to Galway (11 mins late)\nDeparted Tullamore next stop Athlone	To Galway
+R	53.2878	-6.12712	E820	13 Feb 2026	E820\n12:25 - Bray to Malahide (0 mins late)\nDeparted Sandycove next stop Dun Laoghaire	Northbound
+R	53.2951	-6.13498	E225	13 Feb 2026	E225\n11:44 - Malahide to Bray (6 mins late)\nDeparted Dun Laoghaire next stop Sandycove	Southbound
+R	53.3027	-6.17833	E113	13 Feb 2026	E113\n11:55 - Howth to Greystones (2 mins late)\nArrived Blackrock next stop Seapoint	Southbound
+R	53.3099	-6.19498	E922	13 Feb 2026	E922\n12:01 - Greystones to Howth (0 mins late)\nArrived Booterstown next stop Sydney Parade	Northbound
+R	53.3212	-8.60608	B700	13 Feb 2026	B700\n10:10 - Dublin Heuston to Galway (3 mins late)\nArrived Attymon next stop Athenry	To Galway
+R	53.3223	-6.52356	D210	13 Feb 2026	D210\n12:15 - Dublin Heuston to Portlaoise (0 mins late)\nDeparted Hazelhatch next stop Sallins	To Portlaoise
+R	53.3281	-6.22116	E226	13 Feb 2026	E226\n12:04 - Malahide to Bray (0 mins late)\nArrived Sandymount next stop Sydney Parade	Southbound
+R	53.334	-6.37868	A711	13 Feb 2026	A711\n10:10 - Galway to Dublin Heuston (6 mins late)\nDeparted Park West and Cherry Orchard next stop Dublin Heuston	To Dublin Heuston
+R	53.3345	-6.43038	P409	13 Feb 2026	P409\n12:35 - Hazelhatch to Grand Canal Dock (0 mins late)\nArrived Kishoge next stop Clondalkin	Northbound
+R	53.3347	-6.22979	E819	13 Feb 2026	E819\n12:05 - Bray to Malahide (2 mins late)\nDeparted Lansdowne Road next stop Grand Canal Dock	Northbound
+R	53.3395	-7.61596	A713	13 Feb 2026	A713\n11:05 - Galway to Dublin Heuston (7 mins late)\nArrived Clara next stop Tullamore	To Dublin Heuston
+R	53.3531	-6.24591	E921	13 Feb 2026	E921\n11:55 - Bray to Howth (0 mins late)\nArrived Dublin Connolly next stop Clontarf Road	Northbound
+R	53.3629	-6.22753	E227	13 Feb 2026	E227\n12:15 - Howth to Bray (2 mins late)\nDeparted Clontarf Road next stop Dublin Connolly	Southbound
+R	53.3725	-6.29869	P750	13 Feb 2026	P750\n12:10 - Maynooth to Dublin Connolly (0 mins late)\nDeparted Broombridge next stop Drumcondra	Southbound
+R	53.373	-6.20442	E114	13 Feb 2026	E114\n12:24 - Malahide to Greystones (0 mins late)\nDeparted Killester next stop Clontarf Road	Southbound
+R	53.3776	-6.39072	D914	13 Feb 2026	D914\n12:17 - Dublin Connolly to Maynooth (2 mins late)\nDeparted Coolmine next stop Clonsilla	Northbound
+R	53.378	-6.58993	P751	13 Feb 2026	P751\n12:39 - Maynooth to Dublin Connolly (3 mins late)\nDeparted Maynooth next stop Leixlip (Louisa Bridge)	Southbound
+R	53.3786	-6.19131	P707	13 Feb 2026	P707\n11:43 - Drogheda to Dublin Connolly (8 mins late)\nDeparted Harmonstown next stop Dublin Connolly	Southbound
+R	53.387	-6.16163	E950	13 Feb 2026	E950\n22:20 - Greystones to Howth (2 mins late)\nDeparted Kilbarrack next stop Howth Junction	Northbound
+R	53.3917	-6.13678	E228	13 Feb 2026	E228\n12:35 - Howth to Bray (2 mins late)\nDeparted Bayside next stop Howth Junction	Southbound
+R	53.3917	-6.13678	E920	13 Feb 2026	E920\n11:35 - Bray to Howth (2 mins late)\nDeparted Bayside next stop Sutton	Northbound
+R	53.4032	-6.14839	D815	13 Feb 2026	D815\n12:19 - Grand Canal Dock to Drogheda (1 mins late)\nDeparted Clongriffin next stop Malahide	To Drogheda
+R	53.4175	-6.46483	P313	13 Feb 2026	P313\n12:40 - M3 Parkway to Clonsilla (0 mins late)\nArrived Dunboyne next stop Hansfield	Southbound
+R	53.4509	-6.15649	P610	13 Feb 2026	P610\n12:03 - Drogheda to Grand Canal Dock (1 mins late)\nDeparted Malahide next stop Dublin Connolly	To Grand Canal Dock
+R	53.523	-7.34608	A904	13 Feb 2026	A904\n11:05 - Dublin Connolly to Sligo (6 mins late)\nDeparted Mullingar next stop Edgeworthstown	Northbound
+R	53.5741	-6.11933	D814	13 Feb 2026	D814\n12:07 - Dublin Connolly to Drogheda (0 mins late)\nArrived Skerries next stop Balbriggan	Northbound
+R	53.6888	-7.60299	A907	13 Feb 2026	A907\n11:05 - Sligo to Dublin Connolly (2 mins late)\nArrived Edgeworthstown next stop Mullingar	Southbound
+R	53.712	-6.33538	A111	13 Feb 2026	A111\n11:00 - Belfast to Dublin Connolly (1 mins late)\nDeparted Drogheda next stop Dublin Connolly	Southbound
+R	53.712	-6.33538	A112	13 Feb 2026	A112\n11:50 - Dublin Connolly to Belfast (4 mins late)\nDeparted Drogheda next stop Dundalk	Northbound
+R	54.0007	-6.41291	A110	13 Feb 2026	A110\n10:50 - Dublin Connolly to Belfast (13 mins late)\nDeparted Dundalk next stop Newry	Northbound
+R	54.0007	-6.41291	P611	13 Feb 2026	P611\n12:40 - Dundalk to Grand Canal Dock (1 mins late)\nDeparted Dundalk next stop Drogheda	To Grand Canal Dock
+T	52.1396	-8.65521	A307	13 Feb 2026	A307\n11:05 - Tralee to Mallow(-3 mins late)\nTERMINATED Mallow at 12:34	To Mallow
+T	53.0371	-7.30086	D208	13 Feb 2026	D208\n11:20 - Dublin Heuston to Portlaoise(1 mins late)\nTERMINATED Portlaoise at 12:33	To Portlaoise
+T	53.2043	-6.10046	E223	13 Feb 2026	E223\n11:15 - Howth to Bray(6 mins late)\nTERMINATED Bray at 12:34	Southbound
+T	53.334	-6.37868	P213	13 Feb 2026	P213\n11:25 - Portlaoise to Dublin Heuston(2 mins late)\nTERMINATED Park West and Cherry Orchard at 12:39	To Dublin Heuston
+T	53.378	-6.58993	D913	13 Feb 2026	D913\n11:50 - Dublin Connolly to Maynooth(4 mins late)\nTERMINATED Maynooth at 12:37	Northbound
+T	53.4349	-6.46898	D310	13 Feb 2026	D310\n12:19 - Clonsilla to M3 Parkway(5 mins late)\nTERMINATED M3 Parkway at 12:36	Northbound
+T	53.4509	-6.15649	E817	13 Feb 2026	E817\n11:25 - Bray to Malahide(-1 mins late)\nTERMINATED Malahide at 12:36	Northbound
